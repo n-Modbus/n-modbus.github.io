@@ -17,10 +17,12 @@
    * **N-THERMOCOUPLE** Quad Thermocouple sensor Interface, Modbus Interface
    * **N-ACDC** Non Invasive 50A current sensor Modbus
 
-Modbus system with PLC Master
+-----
+
+#### Modbus system with PLC Master
  ![Modbus n-Blocks](doc/n-Modbus-01.JPG) 
 
 -----
 
- Modbus system with n-Blocks Master
- ![Modbus n-Blocks](doc/n-Modbus-01.JPG) 
+####  Modbus system with n-Blocks Master and 3d party I/O
+ ![Modbus n-Blocks](doc/n-Modbus-02.JPG) 
