@@ -1,6 +1,6 @@
 # n-Modbus 
-m-Blocks with Modbus interface
- ![Modbus n-Blocks](doc/n-Modbus-01.JPG) 
+
+#### n-Blocks with Modbus interface:
 
    * **N-IN8** Octal digital inputs interface with optocouplers, I2C and Modbus
    * **N-AIN** Octal Analog Inputs n-Block with Modbus or I2C interface
@@ -17,4 +17,10 @@ m-Blocks with Modbus interface
    * **N-THERMOCOUPLE** Quad Thermocouple sensor Interface, Modbus Interface
    * **N-ACDC** Non Invasive 50A current sensor Modbus
 
- 
+Modbus system with PLC Master
+ ![Modbus n-Blocks](doc/n-Modbus-01.JPG) 
+
+-----
+
+ Modbus system with n-Blocks Master
+ ![Modbus n-Blocks](doc/n-Modbus-01.JPG) 
